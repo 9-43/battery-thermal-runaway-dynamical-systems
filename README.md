@@ -99,31 +99,7 @@ thermal-runaway-dynamical-systems-public-upload/
     └── compact result summaries
 ```
 
-## How to Run
 
-Create a Python environment and install the required packages:
 
-```bash
-pip install -r requirements.txt
-```
 
-Then run individual scripts from the repository root or from the `code/` directory, for example:
 
-```bash
-python code/06_thermal_boundary_timescale_analysis.py
-python code/07_ambient_temperature_sensitivity.py
-python code/08_external_current_sensitivity.py
-python code/05_jacobian_indicator_analysis.py
-```
-
-## Requirements
-
-The selected scripts use NumPy, SciPy, Matplotlib, and Pandas. Install them with:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Note
-
-This repository contains selected code and final figures from an MSc thesis project. It should be read as a concise research-code portfolio rather than a complete reproduction archive.
