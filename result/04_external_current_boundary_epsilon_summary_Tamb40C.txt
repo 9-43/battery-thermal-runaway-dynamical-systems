@@ -1,0 +1,144 @@
+Boundary epsilon summary with Iext included in SOC and epsilon formula
+=====================================================================
+
+Tamb = 40.000000 C
+include_Iext_in_SOC = True
+STOP_AT_SOC_EMPTY = True
+INITIAL_T_EQUALS_AMBIENT = True
+N_R = 70, N_U = 70
+Uref = 4.1870000000 V
+EXCLUDE_SOC_DEPLETED_FROM_BOUNDARY_STATS = True
+Note: boundary epsilon statistics exclude contour sampling points whose nearest grid point reached SOC = 0.
+These SOC-depleted points are counted separately in the SOC depletion summary.
+The plotted 25 A figures additionally show epsilon interval curves at mean epsilon plus and minus 0.1.
+
+Iext = 0.00 A, Tamb = 40 C, boundary = 70 C
+------------------------------------------------------------
+N sampled points after SOC exclusion = 11
+N sampled points before exclusion    = 122
+N excluded as SOC-depleted           = 111
+epsilon mean           = 0.2580367663
+epsilon median         = 0.2436361704
+epsilon variance       = 1.4897010182e-03
+epsilon std            = 0.0385966452
+relative variation     = 14.957808%
+epsilon min            = 0.2268669212
+epsilon max            = 0.3505316566
+
+Iext = 0.00 A, Tamb = 40 C, boundary = 120 C
+------------------------------------------------------------
+N sampled points after SOC exclusion = 31
+N sampled points before exclusion    = 57
+N excluded as SOC-depleted           = 26
+epsilon mean           = 1.2264337681
+epsilon median         = 1.3564606643
+epsilon variance       = 1.6177180029e-01
+epsilon std            = 0.4022086527
+relative variation     = 32.794975%
+epsilon min            = 0.4490383398
+epsilon max            = 1.9951277540
+
+Iext = 2.50 A, Tamb = 40 C, boundary = 70 C
+------------------------------------------------------------
+N sampled points after SOC exclusion = 0
+N sampled points before exclusion    = 120
+N excluded as SOC-depleted           = 120
+epsilon mean           = nan
+epsilon median         = nan
+epsilon variance       = nan
+epsilon std            = nan
+relative variation     = nan%
+epsilon min            = nan
+epsilon max            = nan
+
+Iext = 2.50 A, Tamb = 40 C, boundary = 120 C
+------------------------------------------------------------
+N sampled points after SOC exclusion = 23
+N sampled points before exclusion    = 50
+N excluded as SOC-depleted           = 27
+epsilon mean           = 1.6526778457
+epsilon median         = 1.5595919790
+epsilon variance       = 1.2785493248e-01
+epsilon std            = 0.3575680809
+relative variation     = 21.635679%
+epsilon min            = 1.0824155902
+epsilon max            = 2.6104566016
+
+Iext = 5.00 A, Tamb = 40 C, boundary = 70 C
+------------------------------------------------------------
+N sampled points after SOC exclusion = 0
+N sampled points before exclusion    = 117
+N excluded as SOC-depleted           = 117
+epsilon mean           = nan
+epsilon median         = nan
+epsilon variance       = nan
+epsilon std            = nan
+relative variation     = nan%
+epsilon min            = nan
+epsilon max            = nan
+
+Iext = 5.00 A, Tamb = 40 C, boundary = 120 C
+------------------------------------------------------------
+N sampled points after SOC exclusion = 21
+N sampled points before exclusion    = 46
+N excluded as SOC-depleted           = 25
+epsilon mean           = 1.9255699016
+epsilon median         = 1.7291320763
+epsilon variance       = 1.8499840071e-01
+epsilon std            = 0.4301144042
+relative variation     = 22.336992%
+epsilon min            = 1.5216851541
+epsilon max            = 3.0419830887
+
+Iext = 7.50 A, Tamb = 40 C, boundary = 70 C
+------------------------------------------------------------
+N sampled points after SOC exclusion = 0
+N sampled points before exclusion    = 115
+N excluded as SOC-depleted           = 115
+epsilon mean           = nan
+epsilon median         = nan
+epsilon variance       = nan
+epsilon std            = nan
+relative variation     = nan%
+epsilon min            = nan
+epsilon max            = nan
+
+Iext = 7.50 A, Tamb = 40 C, boundary = 120 C
+------------------------------------------------------------
+N sampled points after SOC exclusion = 19
+N sampled points before exclusion    = 43
+N excluded as SOC-depleted           = 24
+epsilon mean           = 2.2679449618
+epsilon median         = 2.0669890313
+epsilon variance       = 4.6531272275e-01
+epsilon std            = 0.6821383458
+relative variation     = 30.077377%
+epsilon min            = 1.5557263412
+epsilon max            = 3.8037603207
+
+Iext = 25.00 A, Tamb = 40 C, boundary = 70 C
+------------------------------------------------------------
+N sampled points after SOC exclusion = 0
+N sampled points before exclusion    = 106
+N excluded as SOC-depleted           = 106
+epsilon mean           = nan
+epsilon median         = nan
+epsilon variance       = nan
+epsilon std            = nan
+relative variation     = nan%
+epsilon min            = nan
+epsilon max            = nan
+
+Iext = 25.00 A, Tamb = 40 C, boundary = 120 C
+------------------------------------------------------------
+N sampled points after SOC exclusion = 12
+N sampled points before exclusion    = 31
+N excluded as SOC-depleted           = 19
+epsilon mean           = 3.6853715565
+epsilon median         = 2.3907829191
+epsilon variance       = 4.4272456941e+00
+epsilon std            = 2.1041021111
+relative variation     = 57.093351%
+epsilon min            = 1.9261268293
+epsilon max            = 7.6476782661
+

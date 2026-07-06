@@ -1,0 +1,75 @@
+Boundary epsilon summary with Iext included in SOC and epsilon formula
+=====================================================================
+
+Iext = 5.000000 A
+include_Iext_in_SOC = True
+INITIAL_T_EQUALS_AMBIENT = True
+N_R = 70, N_U = 70
+Uref = 4.1870000000 V
+
+Tamb = 20 C, boundary = 70 C
+------------------------------------------------------------
+N sampled points       = 75
+epsilon mean           = 0.7667950503
+epsilon median         = 0.6669783794
+epsilon variance       = 5.9255604510e-02
+epsilon std            = 0.2434247410
+relative variation     = 31.745737%
+epsilon min            = 0.6366567215
+epsilon max            = 2.0962739293
+
+Tamb = 20 C, boundary = 120 C
+------------------------------------------------------------
+N sampled points       = 27
+epsilon mean           = 5.0698633470
+epsilon median         = 4.4783184693
+epsilon variance       = 1.8462622644e+00
+epsilon std            = 1.3587723372
+relative variation     = 26.800966%
+epsilon min            = 3.7711403311
+epsilon max            = 9.2384113020
+
+Tamb = 40 C, boundary = 70 C
+------------------------------------------------------------
+N sampled points       = 117
+epsilon mean           = 0.3937553289
+epsilon median         = 0.3309763547
+epsilon variance       = 2.6775259194e-02
+epsilon std            = 0.1636314737
+relative variation     = 41.556637%
+epsilon min            = 0.3198689356
+epsilon max            = 1.4420617213
+
+Tamb = 40 C, boundary = 120 C
+------------------------------------------------------------
+N sampled points       = 46
+epsilon mean           = 1.8371214064
+epsilon median         = 1.6719927345
+epsilon variance       = 2.1357604573e-01
+epsilon std            = 0.4621428845
+relative variation     = 25.155816%
+epsilon min            = 1.5216851541
+epsilon max            = 3.9961472077
+
+Tamb = 60 C, boundary = 70 C
+------------------------------------------------------------
+N sampled points       = 118
+epsilon mean           = 0.1592540703
+epsilon median         = 0.1007146660
+epsilon variance       = 2.1936818771e-02
+epsilon std            = 0.1481108327
+relative variation     = 93.002855%
+epsilon min            = 0.0902616473
+epsilon max            = 1.0232403409
+
+Tamb = 60 C, boundary = 120 C
+------------------------------------------------------------
+N sampled points       = 66
+epsilon mean           = 0.9600351359
+epsilon median         = 0.8635030986
+epsilon variance       = 5.9377910670e-02
+epsilon std            = 0.2436758311
+relative variation     = 25.381970%
+epsilon min            = 0.8157350957
+epsilon max            = 2.2854671141
+

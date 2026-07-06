@@ -1,0 +1,53 @@
+SOC depletion summary for current sensitivity study
+=================================================
+
+Tamb = 40.000000 C
+STOP_AT_SOC_EMPTY = True
+SOC-depleted points are treated as model-limited points, not as thermally safe points.
+They are not separately marked in the final figures.
+They are excluded from the boundary epsilon statistics when SOC information is available.
+
+Iext = 0.00 A, Tamb = 40 C
+------------------------------------------------------------
+Total grid points                         = 4900
+Reached 120 C cutoff                      = 174
+Reached SOC = 0 before 120 C              = 2906
+Finished without 120 C or SOC depletion   = 1820
+Minimum final SOC                         = -0.000000
+Maximum final SOC                         = 0.907702
+
+Iext = 2.50 A, Tamb = 40 C
+------------------------------------------------------------
+Total grid points                         = 4900
+Reached 120 C cutoff                      = 159
+Reached SOC = 0 before 120 C              = 3551
+Finished without 120 C or SOC depletion   = 1190
+Minimum final SOC                         = -0.000000
+Maximum final SOC                         = 0.358436
+
+Iext = 5.00 A, Tamb = 40 C
+------------------------------------------------------------
+Total grid points                         = 4900
+Reached 120 C cutoff                      = 151
+Reached SOC = 0 before 120 C              = 4749
+Finished without 120 C or SOC depletion   = 0
+Final SOC map                             = not available in this npz file
+
+Iext = 7.50 A, Tamb = 40 C
+------------------------------------------------------------
+Total grid points                         = 4900
+Reached 120 C cutoff                      = 143
+Reached SOC = 0 before 120 C              = 4757
+Finished without 120 C or SOC depletion   = 0
+Minimum final SOC                         = -0.000000
+Maximum final SOC                         = 0.330522
+
+Iext = 25.00 A, Tamb = 40 C
+------------------------------------------------------------
+Total grid points                         = 4900
+Reached 120 C cutoff                      = 100
+Reached SOC = 0 before 120 C              = 4800
+Finished without 120 C or SOC depletion   = 0
+Minimum final SOC                         = -0.000000
+Maximum final SOC                         = 0.293788
+
