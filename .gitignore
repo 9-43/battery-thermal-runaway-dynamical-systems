@@ -1,0 +1,39 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~$*
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large/generated raw outputs
+*.npz
+raw_output/
+raw_outputs/
+*_sweep_results*/
+Qchem_time_scale_check/
+
+# Local/private cleanup archives
+archive/
