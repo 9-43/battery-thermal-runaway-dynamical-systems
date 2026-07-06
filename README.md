@@ -72,15 +72,15 @@ The final thesis figures are provided as PDF files in `figures/pdf/`, organized 
 
 ## Result Summaries
 
-The `results/` folder contains compact CSV and text summaries used to document selected boundary and sensitivity calculations. Large raw `.npz` arrays are excluded.
+The `result/` folder contains compact CSV and text summaries used to document selected boundary and sensitivity calculations. Large raw `.npz` arrays are excluded.
 
 Included summaries:
 
-1. [`01_thermal_boundary_mean_epsilon_summary.csv`](results/01_thermal_boundary_mean_epsilon_summary.csv)
-2. [`02_120C_stopping_boundary_segment_stats.csv`](results/02_120C_stopping_boundary_segment_stats.csv)
-3. [`03_ambient_temperature_boundary_epsilon_summary.txt`](results/03_ambient_temperature_boundary_epsilon_summary.txt)
-4. [`04_external_current_boundary_epsilon_summary_Tamb40C.txt`](results/04_external_current_boundary_epsilon_summary_Tamb40C.txt)
-5. [`05_external_current_SOC_depletion_summary_Tamb40C.txt`](results/05_external_current_SOC_depletion_summary_Tamb40C.txt)
+1. [`01_thermal_boundary_mean_epsilon_summary.csv`](result/01_thermal_boundary_mean_epsilon_summary.csv)
+2. [`02_120C_stopping_boundary_segment_stats.csv`](result/02_120C_stopping_boundary_segment_stats.csv)
+3. [`03_ambient_temperature_boundary_epsilon_summary.txt`](result/03_ambient_temperature_boundary_epsilon_summary.txt)
+4. [`04_external_current_boundary_epsilon_summary_Tamb40C.txt`](result/04_external_current_boundary_epsilon_summary_Tamb40C.txt)
+5. [`05_external_current_SOC_depletion_summary_Tamb40C.txt`](result/05_external_current_SOC_depletion_summary_Tamb40C.txt)
 
 ## Repository Structure
 
