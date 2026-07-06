@@ -2,7 +2,6 @@
 
 This repository contains a selected subset of code, final figures, and compact result summaries from my MSc thesis project at Uppsala University. The project studied early-stage thermal runaway in lithium-ion batteries using nonlinear ordinary differential equation modelling, dynamical-systems analysis, numerical simulation, and scientific computing.
 
-This is a curated public repository for academic and PhD-application purposes. It is not a full backup of the original thesis working directory and does not include draft documents, private forms, reference-paper PDFs, large raw sweep arrays, or intermediate exploratory outputs.
 
 The final thesis PDF is included as [`thesis.pdf`](thesis.pdf).
 
